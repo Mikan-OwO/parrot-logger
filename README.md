@@ -41,7 +41,7 @@ import Logger from 'parrot-logger'
 const logger = new Logger({
   console: {
     type: {
-      DEBUG: true
+      DEBUG: tru
     }
   }
 })
